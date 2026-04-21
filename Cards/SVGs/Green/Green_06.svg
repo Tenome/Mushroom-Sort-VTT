@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="7300"
-   height="10948"
-   viewBox="0 0 7300 10948"
+   width="7966.6699"
+   height="12258.7"
+   viewBox="0 0 7966.6699 12258.7"
    version="1.1"
    id="svg2"
-   sodipodi:docname="Cards.svg"
+   sodipodi:docname="Green_06.svg"
    xml:space="preserve"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.08"
-     inkscape:cx="3031.25"
-     inkscape:cy="5331.25"
+     inkscape:cx="3362.5"
+     inkscape:cy="5981.25"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -69,7 +69,8 @@
          id="feComposite1" /><feBlend
          result="blend"
          in2="SourceGraphic"
-         id="feBlend1" /></filter><style
+         id="feBlend1"
+         mode="normal" /></filter><style
        id="style1-4">
       .cls-1 {
         fill: none;
@@ -113,7 +114,8 @@
          id="feComposite1-2" /><feBlend
          result="blend"
          in2="SourceGraphic"
-         id="feBlend1-2" /></filter><style
+         id="feBlend1-2"
+         mode="normal" /></filter><style
        id="style1-2">
       .cls-1 {
         fill: none;
@@ -157,7 +159,8 @@
          id="feComposite1-5" /><feBlend
          result="blend"
          in2="SourceGraphic"
-         id="feBlend1-4" /></filter><style
+         id="feBlend1-4"
+         mode="normal" /></filter><style
        id="style1-7">
       .cls-1 {
         fill: none;
@@ -201,8 +204,9 @@
          id="feComposite1-7" /><feBlend
          result="blend"
          in2="SourceGraphic"
-         id="feBlend1-7" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+         id="feBlend1-7"
+         mode="normal" /></filter><filter
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Colorize"
        id="filter13"
        x="0"
@@ -214,7 +218,9 @@
          k1="0"
          k2="1"
          result="composite1"
-         id="feComposite12" /><feColorMatrix
+         id="feComposite12"
+         k3="0"
+         k4="0" /><feColorMatrix
          in="composite1"
          values="1"
          type="saturate"
@@ -241,7 +247,6 @@
          in="colormatrix2"
          in2="SourceGraphic"
          operator="in"
-         k2="1"
          result="composite2"
          id="feComposite13" /></filter><style
        id="style1-455">
@@ -490,10 +495,10 @@
          id="feBlend1-42"
          mode="normal" /></filter><filter
        id="f0"
-       x="-0.0047121806"
+       x="-0.0047121807"
        y="-0.0025594567"
        width="1.0094242"
-       height="1.0051189"><feFlood
+       height="1.0051188"><feFlood
          flood-color="#d2b416"
          flood-opacity="1"
          id="feFlood1-7" /><feBlend
@@ -844,7 +849,8 @@
 		.s0 { fill: #da484d } 
 	</style><g
      id="g8"
-     style="display:inline"><rect
+     style="display:inline"
+     transform="translate(333.335,655.35)"><rect
        style="display:inline;fill:#2e6f40;fill-opacity:1;stroke-width:1.29265"
        id="rect17"
        width="6299.4072"
